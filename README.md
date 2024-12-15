@@ -1,0 +1,1 @@
+This repository contains examples demonstrating uncommon errors related to data handling in the Firebase SDK. Specifically, it addresses issues arising from incorrect data formatting and the processing of large datasets. The `firebaseBug.js` file showcases these issues, while `firebaseBugSolution.js` provides solutions and best practices for avoiding these problems.
